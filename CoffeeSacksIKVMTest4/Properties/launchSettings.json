@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoffeeSacksIKVMTest4": {
+      "commandName": "Project",
+      "commandLineArgs": "-t -it -s:C:\\Users\\marti\\OneDrive\\Documents\\xslt\\invisible-xml\\coffeepot-in-xslt-test1.xsl -init:org.nineml.coffeesacks.RegisterCoffeeSacks"
+    }
+  }
+}
